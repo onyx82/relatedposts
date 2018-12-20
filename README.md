@@ -1,0 +1,2 @@
+# relatedposts
+relatedposts pentru widget 
